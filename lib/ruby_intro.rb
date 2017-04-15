@@ -86,7 +86,7 @@ end
 # Part 3
 
 class BookInStock
-# YOUR CODE HERE
+# YOUR CODE HERE .
 @isbn=""
 @price=0
    def isbn=(value)
